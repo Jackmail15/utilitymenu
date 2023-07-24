@@ -2,5 +2,4 @@ BEGIN:VCARD
 VERSION:4.0
 FN:Title1
 ORG:Subtitle1
-SOURCE:https://raw.githubusercontent.com/Jackmail15/utilitymenu/main/menu.vcf
 END:VCARD
